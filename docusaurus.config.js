@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://conjaytech.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docusaurus-test/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -146,13 +146,11 @@ const config = {
     }),
 };
 
-export default {
-  // ...
+export default {  
   title: 'docusuarus-test',
   url: 'https://conjaytech.github.io', // Your website URL
   baseUrl: '/docusaurus-test/',
   projectName: 'docusaurus-test',
   organizationName: 'conjaytech',
   trailingSlash: false,
-  // ...
 };
