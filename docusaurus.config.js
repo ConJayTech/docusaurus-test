@@ -146,4 +146,12 @@ const config = {
     }),
 };
 
-export default config;
+export default {
+  // ...
+  url: 'https://conjaytech.github.io', // Your website URL
+  baseUrl: '/',
+  projectName: 'docusaurus-test',
+  organizationName: 'conjaytech',
+  trailingSlash: false,
+  // ...
+};
