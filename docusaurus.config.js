@@ -150,7 +150,7 @@ export default {
   // ...
   title: 'docusuarus-test',
   url: 'https://conjaytech.github.io', // Your website URL
-  baseUrl: '/',
+  baseUrl: '/docusaurus-test/',
   projectName: 'docusaurus-test',
   organizationName: 'conjaytech',
   trailingSlash: false,
